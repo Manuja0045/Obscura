@@ -3,6 +3,7 @@
 Obscura is a steganography Android application that enables users to hide messages within images and audio files. Utilizing encryption and encoding techniques, the app ensures data security and privacy for message transmission.
 
 
+
 Features
 
   •	Image Steganography: Encode and decode secret messages within images.
@@ -18,12 +19,14 @@ Features
   •	Secure Storage: Save encoded files to internal storage for later retrieval and decoding.
   
 
+
 Installation
   1.	Clone the repository to your local machine.
   git clone https://github.com/username/Obscura.git
   1.	Open the project in Android Studio.
   2.	Connect your Firebase project and add the necessary google-services.json.
   3.	Build and run the project on your Android device.
+
 
    
 Usage
@@ -37,6 +40,7 @@ Usage
   5.	Sign Out: Click the sign-out button to end the session.
 
 
+
 Requirements
 
   •	Android SDK 21 or higher
@@ -44,6 +48,7 @@ Requirements
   •	Firebase Authentication set up in the Firebase Console
   
   •	Internet connection for authentication
+
   
 
 Technologies Used
@@ -54,6 +59,7 @@ Technologies Used
   
   •	Steganography for secure message encoding and decoding
   
+
 
 License
 
